@@ -10,6 +10,9 @@ var server = net.createServer(function(socket) {
     // Expected data structure:
     //weight::int:16 hive::int:16 voltage::uint:8 raw::int:16 diffmin::uint:8 diffmax::uint:8 scale::int:16
     redisClient.rpush([REDIS_IOTBEESCALE_LIST, data]);
+    socket.end(function() {
+      console.log(`Connection to ${socket.remoteAddress}:${socket.remotePort} was ended.`);
+    });
   });
 });
 
