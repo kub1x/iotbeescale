@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "forever index.js"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "forever": "^0.15.3",
     "redis": "^2.8.0"
   }
 }
