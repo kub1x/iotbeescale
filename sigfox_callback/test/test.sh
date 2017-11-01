@@ -1,7 +1,6 @@
 #!/bin/bash
 
-HOST="localhost"
-PORT="13737"
+source ../.env
 
 ## 1) using curl
 #curl --data-binary @data http://${HOST}:${PORT}
@@ -10,3 +9,6 @@ PORT="13737"
 ## 2) using netcat
 cat data | nc ${HOST} ${PORT}
 ## "000000d88abfef04be90000\n"
+
+## *) result
+redis-cli LRANGE ${REDIS_IOTBEESCALE_LIST} -1 -1
