@@ -13,6 +13,7 @@ with open('data50.json') as data_file:
     data_loaded = json.load(data_file)
 
 for f in data_loaded:
+    f['@timestamp'] = int(time.time())
     str_ = json.dumps(f, indent=2, sort_keys=True, separators=(',', ': '), ensure_ascii=False)
     print("Sending: " + str_)
 
