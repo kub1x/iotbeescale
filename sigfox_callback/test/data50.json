@@ -1,0 +1,452 @@
+[
+    {
+        "diffmax": 8,
+        "diffmin": 10,
+        "hive": 35,
+        "raw": 13,
+        "scale": 35,
+        "voltage": 5,
+        "weight": 19
+    },
+    {
+        "diffmax": 2,
+        "diffmin": 7,
+        "hive": 23,
+        "raw": 5,
+        "scale": 38,
+        "voltage": 13,
+        "weight": 35
+    },
+    {
+        "diffmax": 4,
+        "diffmin": 2,
+        "hive": 25,
+        "raw": 9,
+        "scale": 11,
+        "voltage": 12,
+        "weight": 35
+    },
+    {
+        "diffmax": 5,
+        "diffmin": 2,
+        "hive": 33,
+        "raw": 9,
+        "scale": 13,
+        "voltage": 12,
+        "weight": 46
+    },
+    {
+        "diffmax": 4,
+        "diffmin": 3,
+        "hive": 12,
+        "raw": 15,
+        "scale": 15,
+        "voltage": 7,
+        "weight": 53
+    },
+    {
+        "diffmax": 2,
+        "diffmin": 3,
+        "hive": 27,
+        "raw": 11,
+        "scale": 28,
+        "voltage": 11,
+        "weight": 56
+    },
+    {
+        "diffmax": 7,
+        "diffmin": 7,
+        "hive": 22,
+        "raw": 10,
+        "scale": 19,
+        "voltage": 9,
+        "weight": 76
+    },
+    {
+        "diffmax": 3,
+        "diffmin": 1,
+        "hive": 27,
+        "raw": 7,
+        "scale": 15,
+        "voltage": 13,
+        "weight": 96
+    },
+    {
+        "diffmax": 1,
+        "diffmin": 6,
+        "hive": 28,
+        "raw": 13,
+        "scale": 16,
+        "voltage": 14,
+        "weight": 130
+    },
+    {
+        "diffmax": 9,
+        "diffmin": 10,
+        "hive": 33,
+        "raw": 6,
+        "scale": 32,
+        "voltage": 14,
+        "weight": 135
+    },
+    {
+        "diffmax": 3,
+        "diffmin": 10,
+        "hive": 40,
+        "raw": 7,
+        "scale": 24,
+        "voltage": 11,
+        "weight": 156
+    },
+    {
+        "diffmax": 1,
+        "diffmin": 10,
+        "hive": 32,
+        "raw": 11,
+        "scale": 22,
+        "voltage": 12,
+        "weight": 162
+    },
+    {
+        "diffmax": 8,
+        "diffmin": 5,
+        "hive": 25,
+        "raw": 11,
+        "scale": 35,
+        "voltage": 11,
+        "weight": 184
+    },
+    {
+        "diffmax": 1,
+        "diffmin": 3,
+        "hive": 39,
+        "raw": 10,
+        "scale": 20,
+        "voltage": 12,
+        "weight": 210
+    },
+    {
+        "diffmax": 7,
+        "diffmin": 1,
+        "hive": 32,
+        "raw": 10,
+        "scale": 34,
+        "voltage": 8,
+        "weight": 220
+    },
+    {
+        "diffmax": 10,
+        "diffmin": 2,
+        "hive": 40,
+        "raw": 5,
+        "scale": 13,
+        "voltage": 13,
+        "weight": 256
+    },
+    {
+        "diffmax": 5,
+        "diffmin": 9,
+        "hive": 31,
+        "raw": 9,
+        "scale": 16,
+        "voltage": 5,
+        "weight": 261
+    },
+    {
+        "diffmax": 6,
+        "diffmin": 4,
+        "hive": 25,
+        "raw": 6,
+        "scale": 15,
+        "voltage": 5,
+        "weight": 263
+    },
+    {
+        "diffmax": 2,
+        "diffmin": 8,
+        "hive": 20,
+        "raw": 8,
+        "scale": 24,
+        "voltage": 8,
+        "weight": 268
+    },
+    {
+        "diffmax": 8,
+        "diffmin": 9,
+        "hive": 21,
+        "raw": 7,
+        "scale": 13,
+        "voltage": 10,
+        "weight": 287
+    },
+    {
+        "diffmax": 2,
+        "diffmin": 6,
+        "hive": 21,
+        "raw": 8,
+        "scale": 11,
+        "voltage": 14,
+        "weight": 342
+    },
+    {
+        "diffmax": 6,
+        "diffmin": 7,
+        "hive": 15,
+        "raw": 10,
+        "scale": 39,
+        "voltage": 8,
+        "weight": 430
+    },
+    {
+        "diffmax": 9,
+        "diffmin": 1,
+        "hive": 35,
+        "raw": 12,
+        "scale": 12,
+        "voltage": 5,
+        "weight": 487
+    },
+    {
+        "diffmax": 10,
+        "diffmin": 9,
+        "hive": 36,
+        "raw": 13,
+        "scale": 26,
+        "voltage": 7,
+        "weight": 534
+    },
+    {
+        "diffmax": 10,
+        "diffmin": 7,
+        "hive": 32,
+        "raw": 14,
+        "scale": 37,
+        "voltage": 10,
+        "weight": 552
+    },
+    {
+        "diffmax": 2,
+        "diffmin": 1,
+        "hive": 28,
+        "raw": 10,
+        "scale": 11,
+        "voltage": 12,
+        "weight": 563
+    },
+    {
+        "diffmax": 7,
+        "diffmin": 4,
+        "hive": 22,
+        "raw": 13,
+        "scale": 21,
+        "voltage": 15,
+        "weight": 571
+    },
+    {
+        "diffmax": 8,
+        "diffmin": 5,
+        "hive": 35,
+        "raw": 8,
+        "scale": 18,
+        "voltage": 7,
+        "weight": 601
+    },
+    {
+        "diffmax": 7,
+        "diffmin": 3,
+        "hive": 14,
+        "raw": 14,
+        "scale": 20,
+        "voltage": 9,
+        "weight": 606
+    },
+    {
+        "diffmax": 4,
+        "diffmin": 8,
+        "hive": 17,
+        "raw": 12,
+        "scale": 21,
+        "voltage": 12,
+        "weight": 614
+    },
+    {
+        "diffmax": 9,
+        "diffmin": 9,
+        "hive": 28,
+        "raw": 12,
+        "scale": 36,
+        "voltage": 13,
+        "weight": 667
+    },
+    {
+        "diffmax": 4,
+        "diffmin": 2,
+        "hive": 31,
+        "raw": 11,
+        "scale": 40,
+        "voltage": 10,
+        "weight": 685
+    },
+    {
+        "diffmax": 1,
+        "diffmin": 2,
+        "hive": 29,
+        "raw": 9,
+        "scale": 33,
+        "voltage": 12,
+        "weight": 706
+    },
+    {
+        "diffmax": 2,
+        "diffmin": 8,
+        "hive": 32,
+        "raw": 14,
+        "scale": 25,
+        "voltage": 9,
+        "weight": 745
+    },
+    {
+        "diffmax": 10,
+        "diffmin": 3,
+        "hive": 12,
+        "raw": 11,
+        "scale": 12,
+        "voltage": 8,
+        "weight": 755
+    },
+    {
+        "diffmax": 5,
+        "diffmin": 6,
+        "hive": 39,
+        "raw": 10,
+        "scale": 14,
+        "voltage": 12,
+        "weight": 786
+    },
+    {
+        "diffmax": 2,
+        "diffmin": 2,
+        "hive": 11,
+        "raw": 11,
+        "scale": 25,
+        "voltage": 11,
+        "weight": 834
+    },
+    {
+        "diffmax": 8,
+        "diffmin": 10,
+        "hive": 37,
+        "raw": 9,
+        "scale": 17,
+        "voltage": 13,
+        "weight": 843
+    },
+    {
+        "diffmax": 7,
+        "diffmin": 9,
+        "hive": 32,
+        "raw": 11,
+        "scale": 21,
+        "voltage": 14,
+        "weight": 847
+    },
+    {
+        "diffmax": 8,
+        "diffmin": 9,
+        "hive": 38,
+        "raw": 11,
+        "scale": 17,
+        "voltage": 10,
+        "weight": 872
+    },
+    {
+        "diffmax": 10,
+        "diffmin": 3,
+        "hive": 27,
+        "raw": 14,
+        "scale": 29,
+        "voltage": 9,
+        "weight": 875
+    },
+    {
+        "diffmax": 10,
+        "diffmin": 9,
+        "hive": 12,
+        "raw": 15,
+        "scale": 26,
+        "voltage": 13,
+        "weight": 885
+    },
+    {
+        "diffmax": 7,
+        "diffmin": 1,
+        "hive": 30,
+        "raw": 14,
+        "scale": 13,
+        "voltage": 8,
+        "weight": 891
+    },
+    {
+        "diffmax": 9,
+        "diffmin": 9,
+        "hive": 38,
+        "raw": 5,
+        "scale": 23,
+        "voltage": 12,
+        "weight": 898
+    },
+    {
+        "diffmax": 9,
+        "diffmin": 8,
+        "hive": 36,
+        "raw": 7,
+        "scale": 39,
+        "voltage": 11,
+        "weight": 901
+    },
+    {
+        "diffmax": 7,
+        "diffmin": 4,
+        "hive": 37,
+        "raw": 9,
+        "scale": 16,
+        "voltage": 12,
+        "weight": 910
+    },
+    {
+        "diffmax": 7,
+        "diffmin": 9,
+        "hive": 12,
+        "raw": 11,
+        "scale": 37,
+        "voltage": 14,
+        "weight": 926
+    },
+    {
+        "diffmax": 6,
+        "diffmin": 4,
+        "hive": 28,
+        "raw": 5,
+        "scale": 11,
+        "voltage": 8,
+        "weight": 990
+    },
+    {
+        "diffmax": 10,
+        "diffmin": 2,
+        "hive": 34,
+        "raw": 7,
+        "scale": 21,
+        "voltage": 6,
+        "weight": 994
+    },
+    {
+        "diffmax": 8,
+        "diffmin": 8,
+        "hive": 15,
+        "raw": 15,
+        "scale": 12,
+        "voltage": 10,
+        "weight": 994
+    }
+]
